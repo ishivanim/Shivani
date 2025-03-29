@@ -6,7 +6,7 @@
     AI & ML: Artificial Neural Networks, Deep Learning, NLP
     Scientific Computing: Quantum Mechanics Simulations, Image Processing
 
-## Projects & Research (2022-2025)
+## Projects & Research ((2022-2025))
  ### 🔹 Programming Work
         Developed solutions for complex mathematical problems, including graph plotting for quantum mechanics.
         Built basic predictive models using Machine Learning.
@@ -22,3 +22,6 @@
  ### 🔹 Current Work
         Designing Meta-surfaces using Distributed Neural Networks.
         Studying Natural Language Processing (NLP) and Deep Learning.
+
+end
+
